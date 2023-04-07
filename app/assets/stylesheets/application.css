@@ -43,3 +43,8 @@ body {
 .body {
     background-color: #f5deb3;
   }
+
+/* Form Layout */
+.content {
+  text-align: center;
+}
