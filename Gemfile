@@ -73,3 +73,4 @@ end
 
 gem 'devise'
 gem "sassc-rails"
+gem 'bcrypt', '~> 3.1.7'
