@@ -4,7 +4,7 @@ Rails.application.routes.draw do
     :sessions => 'users/sessions'
     }
 
-    root to: 'homes#top'
+  root to: 'homes#top'
   get "about" => "homes#about"
 
 end
