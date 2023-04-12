@@ -141,24 +141,6 @@ form {
 
 /* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑メイン↑↑↑↑↑↑↑↑↑↑↑↑↑↑ */
 
-.sticky-top {
-  background-color: orange;
-}
-
-.site-title {
-  background-color: orange;
-  width: 300px;
-  font-family: 'Rampart One', cursive;
-  height: 55px;
-  margin: auto;
-}
-
-@media screen and (min-width: 481px) {
-  .header-menu {
-    display: none;
-  }
-}
-
 .site-title-header {
   font-family: 'Rampart One', cursive;
   font-size: 30px;
@@ -176,10 +158,8 @@ form {
   text-transform: uppercase;
 }
 
-@media screen and (max-width: 481px) {
-  .menu {
+.menu {
     display: none;
-  }
 }
 
 .diary-area {
