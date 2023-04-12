@@ -74,3 +74,5 @@ end
 gem 'devise'
 gem "sassc-rails"
 gem 'bcrypt', '~> 3.1.7'
+gem "font-awesome-rails"
+gem 'wdm', '>= 0.1.0', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

@@ -44,8 +44,8 @@ body {
     background-color: #f5deb3;
   }
 
-/* ログイン画面 */
-/* Form Layout */
+/* ↓↓↓↓↓↓↓↓↓↓↓↓ログイン画面↓↓↓↓↓↓↓↓↓↓↓↓↓ */
+
 .form-wrapper {
   background: #f5bc49;
   margin: 20px auto;
@@ -124,14 +124,22 @@ form {
   border-bottom: 1px dotted #8c8c8c;
 }
 
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ログイン画面↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ */
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓アラート↓↓↓↓↓↓↓↓↓↓↓↓↓↓ */
+
 .alert {
   text-align: center;
   margin: 0 auto;
 }
 
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑アラート↑↑↑↑↑↑↑↑↑↑↑↑↑↑ */
+/* ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓メイン↓↓↓↓↓↓↓↓↓↓↓↓↓↓ */
+
 .content {
   text-align: center;
 }
+
+/* ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑メイン↑↑↑↑↑↑↑↑↑↑↑↑↑↑ */
 
 .sticky-top {
   background-color: orange;
@@ -139,8 +147,8 @@ form {
 
 .site-title {
   background-color: orange;
-  font-family: 'Rampart One', cursive;
   width: 300px;
+  font-family: 'Rampart One', cursive;
   height: 55px;
   margin: auto;
 }
